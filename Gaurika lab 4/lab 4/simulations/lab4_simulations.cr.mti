@@ -1,0 +1,15 @@
+{C:/Users/Kristofer/Desktop/CPEN 311/lab 4/simulations/shuffling_array_modular_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Kristofer/Desktop/CPEN 311/lab 4/simulations/shuffling_array_modular_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module shuffling_array_modular_tb
+
+Top level modules:
+	shuffling_array_modular_tb
+
+} {} {}} {C:/Users/Kristofer/Desktop/CPEN 311/lab 4/simulations/shuffling_array_modular.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Kristofer/Desktop/CPEN 311/lab 4/simulations/shuffling_array_modular.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module shuffling_array_modular
+
+Top level modules:
+	shuffling_array_modular
+
+} {} {}}

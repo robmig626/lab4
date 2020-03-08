@@ -1,0 +1,13 @@
+
+module ksa (inputs/outputs);
+    logic clk;
+    logic reset_n;
+    logic [6:0] ssOut;
+    logic [3:0] nIn;
+
+    assign clk = CLOCK_50;
+    assign reset_n = KEY[3];
+
+    SevenSegmentDisplayDecoder mod (.nIn(nIn), .ssOut(ssOut));
+
+endmodule

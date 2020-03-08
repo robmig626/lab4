@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at task3_hex_display.sv(1): object "KEY" differs only in case from object "key" in the same scope
+Warning (10268): Verilog HDL information at shuffling_array_modular.sv(64): always construct contains both blocking and non-blocking assignments
