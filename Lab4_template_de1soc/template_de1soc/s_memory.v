@@ -168,7 +168,7 @@ endmodule
 // Retrieval info: CONNECT: q 0 0 8 0 @q_a 0 0 8 0
 // Retrieval info: GEN_FILE: TYPE_NORMAL s_memory.v TRUE
 // Retrieval info: GEN_FILE: TYPE_NORMAL s_memory.inc FALSE
-// Retrieval info: GEN_FILE: TYPE_NORMAL s_memory.cmp FALSE
+// Retrieval info: GEN_FILE: TYPE_NORMAL s_memory.cmp TRUE
 // Retrieval info: GEN_FILE: TYPE_NORMAL s_memory.bsf FALSE
 // Retrieval info: GEN_FILE: TYPE_NORMAL s_memory_inst.v FALSE
 // Retrieval info: GEN_FILE: TYPE_NORMAL s_memory_bb.v TRUE
