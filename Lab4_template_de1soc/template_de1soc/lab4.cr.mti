@@ -1,0 +1,9 @@
+C:/Users/USER/Desktop/UBC/Y3/CPEN311/lab4/lab4/lab4/Lab4_template_de1soc/template_de1soc/FSM_mem_w_init.sv {1 {vlog -work work -sv -stats=none C:/Users/USER/Desktop/UBC/Y3/CPEN311/lab4/lab4/lab4/Lab4_template_de1soc/template_de1soc/FSM_mem_w_init.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling package FSM_mem_w_init_sv_unit
+-- Compiling module FSM_mem_w_init
+
+Top level modules:
+	FSM_mem_w_init
+
+} {} {}}

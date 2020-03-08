@@ -6,7 +6,7 @@ entity ksa is
   port(
     CLOCK_50            : in  std_logic;  -- Clock pin
     KEY                 : in  std_logic_vector(3 downto 0);  -- push button switches
-    SW                 : in  std_logic_vector(9 downto 0);  -- slider switches
+    SW                  : in  std_logic_vector(9 downto 0);  -- slider switches
     LEDR : out std_logic_vector(9 downto 0);  -- red lights
     HEX0 : out std_logic_vector(6 downto 0);
     HEX1 : out std_logic_vector(6 downto 0);

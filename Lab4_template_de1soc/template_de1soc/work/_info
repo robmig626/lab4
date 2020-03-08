@@ -1,0 +1,81 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/USER/Desktop/UBC/Y3/CPEN311/HW3/ModSimTest
+vFSM_mem_w_init
+Z0 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+DXx4 work 22 FSM_mem_w_init_sv_unit 0 22 bUY7zJ@TTSLVaZBQa_2TK2
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+!i10b 1
+!s100 hil?_Sc^hQN@2Xch5EYa70
+IPfNz4hV3DDLg@dLZm7G;?1
+!s105 FSM_mem_w_init_sv_unit
+S1
+Z2 dC:/Users/USER/Desktop/UBC/Y3/CPEN311/lab4/lab4/lab4/Lab4_template_de1soc/template_de1soc
+Z3 w1583695539
+Z4 8C:/Users/USER/Desktop/UBC/Y3/CPEN311/lab4/lab4/lab4/Lab4_template_de1soc/template_de1soc/FSM_mem_w_init.sv
+Z5 FC:/Users/USER/Desktop/UBC/Y3/CPEN311/lab4/lab4/lab4/Lab4_template_de1soc/template_de1soc/FSM_mem_w_init.sv
+L0 5
+Z6 OV;L;10.3c;59
+Z7 !s108 1583695825.931000
+Z8 !s107 C:/Users/USER/Desktop/UBC/Y3/CPEN311/lab4/lab4/lab4/Lab4_template_de1soc/template_de1soc/FSM_mem_w_init.sv|
+Z9 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/USER/Desktop/UBC/Y3/CPEN311/lab4/lab4/lab4/Lab4_template_de1soc/template_de1soc/FSM_mem_w_init.sv|
+!i113 1
+Z10 o-work work -sv
+n@f@s@m_mem_w_init
+XFSM_mem_w_init_sv_unit
+R0
+VbUY7zJ@TTSLVaZBQa_2TK2
+r1
+!s85 0
+31
+!i10b 1
+!s100 NhG7dlXfLRgHb8;NeF:AT0
+IbUY7zJ@TTSLVaZBQa_2TK2
+!i103 1
+S1
+R2
+R3
+R4
+R5
+L0 1
+R6
+R7
+R8
+R9
+!i113 1
+R10
+n@f@s@m_mem_w_init_sv_unit
+vFSM_mem_w_init_testbench
+R0
+!s110 1583695826
+!i10b 1
+!s100 iYlY[<<6ZH88i]oXB1KO53
+IW5m1[9bE1DlD3f;98GT;V1
+R1
+!s105 FSM_mem_w_init_testbench_sv_unit
+S1
+R2
+w1583695816
+8C:/Users/USER/Desktop/UBC/Y3/CPEN311/lab4/lab4/lab4/Lab4_template_de1soc/template_de1soc/FSM_mem_w_init_testbench.sv
+FC:/Users/USER/Desktop/UBC/Y3/CPEN311/lab4/lab4/lab4/Lab4_template_de1soc/template_de1soc/FSM_mem_w_init_testbench.sv
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1583695826.086000
+!s107 C:/Users/USER/Desktop/UBC/Y3/CPEN311/lab4/lab4/lab4/Lab4_template_de1soc/template_de1soc/FSM_mem_w_init_testbench.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/USER/Desktop/UBC/Y3/CPEN311/lab4/lab4/lab4/Lab4_template_de1soc/template_de1soc/FSM_mem_w_init_testbench.sv|
+!i113 1
+R10
+n@f@s@m_mem_w_init_testbench
