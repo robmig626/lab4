@@ -1,0 +1,25 @@
+
+
+C:/Users/forss/OneDrive/UBC 2019-2020/CPEN 311/lab4/Lab4_template_de1soc/template_de1soc/s_memory.v
+
+Mar 07 08PM:39:15>: The following design file, which has identical name but a different extension 
+from the specified variation file, already exists in the working directory:
+
+s_memory.vhd
+
+This may create a conflict of design files and/or lead to undesirable side
+effects.
+
+Is it OK to continue file generation?
+
+C:/Users/forss/OneDrive/UBC 2019-2020/CPEN 311/lab4/Lab4_template_de1soc/template_de1soc/s_memory.v
+
+Mar 07 08PM:41:26>: The following design file, which has identical name but a different extension 
+from the specified variation file, already exists in the working directory:
+
+s_memory.vhd
+
+This may create a conflict of design files and/or lead to undesirable side
+effects.
+
+Is it OK to continue file generation?
