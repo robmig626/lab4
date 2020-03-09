@@ -1,4 +1,12 @@
+Lab4_template_de1soc\template_de1soc\db
+Lab4_template_de1soc\template_de1soc\output_files
+Lab4_template_de1soc\template_de1soc\incremental_db
+Lab4_template_de1soc\template_de1soc\greybox_tmp
+Lab4_template_de1soc\template_de1soc\secret_messages
+Lab4_template_de1soc\template_de1soc\rc4.qsf
 
+
+<<<<<<< HEAD
 *.db_info
 Lab4_template_de1soc/template_de1soc/db/rc4.quiproj.2924.rdr.flock
 Lab4_template_de1soc/template_de1soc/db/rc4.db_info
@@ -62,3 +70,5 @@ Lab4_template_de1soc/template_de1soc/db/rc4.quiproj.12032.rdr.flock
 Lab4_template_de1soc/template_de1soc/ksa.vhd.bak
 Lab4_template_de1soc/template_de1soc/rc4.qws
 Lab4_template_de1soc/template_de1soc/db/rc4.db_info
+=======
+>>>>>>> changed_gitignore
